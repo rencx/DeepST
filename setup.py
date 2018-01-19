@@ -10,7 +10,7 @@ setup(name='DeepST',
       url='https://github.com/lucktroy/DeepST',
       download_url='https://github.com/lucktroy/DeepST/',
       license='MIT',
-      install_requires=['keras', 'theano'],
+      install_requires=['keras'],
       extras_require={
           'h5py': ['h5py'],
           'visualize': ['pydot-ng'],
