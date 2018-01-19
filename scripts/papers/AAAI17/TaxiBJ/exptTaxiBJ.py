@@ -6,7 +6,7 @@ Usage:
 from __future__ import print_function
 import os
 import sys
-import cPickle as pickle
+#import cPickle as pickle
 import _pickle as pickle
 import time
 import numpy as np
